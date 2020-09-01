@@ -84,7 +84,11 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
-* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
+* [Udacity Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+* [Udacity Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+* [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+* [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+* [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 
 ### Angular
@@ -107,6 +111,7 @@
 
 ### C Sharp
 
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
@@ -120,7 +125,6 @@
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
-   
 
 
 ### Clojure
@@ -135,7 +139,7 @@
 
 ### Cuda
 
-* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
 ### Data Science
@@ -159,9 +163,10 @@
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
+* [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
-* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
 
 ### Git
@@ -223,7 +228,7 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
-* [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
+* [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 
 
@@ -289,6 +294,7 @@
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+* [PyTorch tutorials by PyTorch.org](https://pytorch.org/tutorials)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
@@ -314,6 +320,7 @@
 * [Bits: The Computer Science of Digital Information](http://www.extension.harvard.edu/open-learning-initiative/bits)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [Elements of AI](https://www.elementsofai.com)
 * [Embedded Software Safety](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) (P. Koopman)
 * [FindLectures.com](https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
@@ -431,8 +438,8 @@
 
 ### Theory
 
-* [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
-* [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+* [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+* [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
 
 ### TypeScript
@@ -446,7 +453,6 @@
 * [SOC Verification Using SystemVerilog](http://verificationexcellence.in/online-courses/soc-verification-using-systemverilog)
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
-* [Verilog Hardware Description Language - An Introductory Course](http://vol.verilog.com/VOL/main.htm)
 
 
 ### Web Development
